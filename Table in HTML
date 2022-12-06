@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th,td
+{border:1px solid rgb(159, 78, 24);
+border-radius:10px;}
+{border-collapse:collapse;}
+th,td{background-color:rgb(236, 240, 241)}
+</style>
+<caption><th>NAME-COMPANY-COUNTRY-SALARY<th></caption>
+<table>
+<tr><th>NAME</th>
+<td>Rohith</td>
+<td>Mani</td>
+<td>Rahul</td>
+</tr>
+<tr>
+<th>COMPANY</th>
+<td>Google</td>
+<td>Microsoft</td>
+<td>Apple</td>
+</tr>
+<tr>
+<th>SPECIALISATION</th>
+<td>Software</td>
+<td>Data science</td>
+<td>Cyber security</td>
+</tr>
+<tr>
+<th>COUNTRY</th>
+<td>Germany</td>
+<td>Australia</td>
+<td>London</td>
+</tr>
+<tr>
+<th>SALARY</th>
+<td>$45000</td>
+<td>$50000</td>
+<td>$55000</td>
+</tr>
+</table>
+</html>
